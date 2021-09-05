@@ -7,8 +7,6 @@
 - :mag: Machine Learning Enthusiast
 - :mailbox: dimpit40@gmail.com
 - 🌱 I’m currently learning SQL 
-- 👯 I’m looking to collaborate on ..
-- 💬 Ask me about ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+
 
