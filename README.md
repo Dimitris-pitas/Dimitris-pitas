@@ -7,6 +7,7 @@
 - :mag: Machine Learning Enthusiast
 - :mailbox: dimpit40@gmail.com
 - :house: Thessaloniki,Greece
+- :mag_right: Python, R, SPSS
 - 🌱 I’m currently learning SQL 
 - 😄 Pronouns: he/him
 
