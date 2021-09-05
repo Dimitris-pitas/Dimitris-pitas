@@ -6,7 +6,7 @@
 - :mortar_board: Msc Statistics and Data Analysis
 - :mag: Machine Learning Enthusiast
 - :mailbox: dimpit40@gmail.com
-- :house: Thessaloniki, Greece
+- :house: Thessaloniki,Greece
 - 🌱 I’m currently learning SQL 
 - 😄 Pronouns: he/him
 
